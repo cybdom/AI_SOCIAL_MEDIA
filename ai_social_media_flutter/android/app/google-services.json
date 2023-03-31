@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860708555739",
+    "project_id": "ai-social-media-45005",
+    "storage_bucket": "ai-social-media-45005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860708555739:android:325aa2c921de9deef935fe",
+        "android_client_info": {
+          "package_name": "com.example.ai_social_media_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860708555739-gm9rbg4d2bq677c41ob8n4u7vkvgdg8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMMDU4hm5l1JlJfpC5QtQsnWwRElWzZOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860708555739-gm9rbg4d2bq677c41ob8n4u7vkvgdg8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
